@@ -1,0 +1,66 @@
+{
+    "MAINNET_MARKETS": [
+        {
+            "displayName": "Staked WEMIX Market",
+            "href": "https://wemix.shoebill.finance",
+            "chain": 1111,
+            "ready": true
+        },
+        {
+            "displayName": "Manta STONE Market",
+            "href": "https://manta-stone.shoebill.finance",
+            "chain": 169,
+            "market": "ETH",
+            "ready": true
+        },
+        {
+            "displayName": "Manta wUSDM Market",
+            "href": "https://manta-stable.shoebill.finance",
+            "chain": 169,
+            "market": "STABLE",
+            "ready": true
+        },
+        {
+            "displayName": "Staked MANTA Market",
+            "href": "https://manta-manta.shoebill.finance",
+            "chain": 169,
+            "market": "MANTA",
+            "ready": true
+        },
+        {
+            "displayName": "Staked KLAY Market",
+            "href": "https://klaytn.shoebill.finance",
+            "chain": 8217,
+            "ready": true
+        },
+        {
+            "displayName": "Mode STONE Market",
+            "href": "https://mode-stone.shoebill.finance",
+            "chain": 34443,
+            "ready": true
+        }
+    ],
+    "TESTNET_MARKETS": [
+        {
+            "displayName": "B² STONE Market",
+            "href": "https://testnet-b2-eth.shoebill.finance",
+            "chain": 1102,
+            "market": "ETH",
+            "ready": true
+        },
+        {
+            "displayName": "B² BTC Market",
+            "href": "https://testnet-b2-btc.shoebill.finance",
+            "chain": 1102,
+            "market": "BTC",
+            "ready": true
+        },
+        {
+            "displayName": "Staked eMETIS Market",
+            "href": "https://testnet-metis-metis.shoebill.finance",
+            "chain": 59901,
+            "market": "METIS",
+            "ready": true
+        }
+    ]
+}
