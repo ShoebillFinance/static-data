@@ -34,8 +34,8 @@
             "ready": true
         },
         {
-            "displayName": "Mode STONE Market",
-            "href": "https://mode-stone.shoebill.finance",
+            "displayName": "Mode ETH Market",
+            "href": "https://mode-eth.shoebill.finance",
             "chain": 34443,
             "ready": true
         }
