@@ -23,7 +23,7 @@
         {
             "displayName": "B² Testnet",
             "href": "https://testnet-b2-eth.shoebill.finance",
-            "chain": 1102,
+            "chain": 1123,
             "market": "ETH",
             "ready": true,
             "isTestnet": true
@@ -40,7 +40,7 @@
             "displayName": "Mode",
             "href": "https://mode-stone.shoebill.finance",
             "chain": 34443,
-            "ready": false
+            "ready": true
         }
     ]
 }
