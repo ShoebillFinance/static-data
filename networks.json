@@ -1,46 +1,53 @@
 {
-    "NETWORKS_LIST": [
-        {
-            "displayName": "Manta Pacific",
-            "href": "https://manta-stone.shoebill.finance",
-            "chain": 169,
-            "market": "ETH",
-            "ready": true
-        },
+  "NETWORKS_LIST": [
+    {
+      "displayName": "Metis",
+      "href": "https://metis-metis.shoebill.finance",
+      "market": "METIS",
+      "chain": 1088,
+      "ready": true
+    },
+    {
+      "displayName": "Mode",
+      "href": "https://mode-eth.shoebill.finance",
+      "chain": 34443,
+      "ready": true
+    },
+    {
+      "displayName": "Manta Pacific",
+      "href": "https://manta-stone.shoebill.finance",
+      "chain": 169,
+      "market": "ETH",
+      "ready": true
+    },
 
-        {
-            "displayName": "Wemix",
-            "href": "https://wemix.shoebill.finance",
-            "chain": 1111,
-            "ready": true
-        },
-        {
-            "displayName": "Klaytn",
-            "href": "https://klaytn.shoebill.finance",
-            "chain": 8217,
-            "ready": true
-        },
-        {
-            "displayName": "B² Testnet",
-            "href": "https://testnet-b2-eth.shoebill.finance",
-            "chain": 1123,
-            "market": "ETH",
-            "ready": true,
-            "isTestnet": true
-        },
-        {
-            "displayName": "Metis Testnet",
-            "href": "https://testnet-metis-metis.shoebill.finance",
-            "chain": 59901,
-            "market": "METIS",
-            "ready": true,
-            "isTestnet": true
-        },
-        {
-            "displayName": "Mode",
-            "href": "https://mode-eth.shoebill.finance",
-            "chain": 34443,
-            "ready": true
-        }
-    ]
+    {
+      "displayName": "Wemix",
+      "href": "https://wemix.shoebill.finance",
+      "chain": 1111,
+      "ready": true
+    },
+    {
+      "displayName": "Klaytn",
+      "href": "https://klaytn.shoebill.finance",
+      "chain": 8217,
+      "ready": true
+    },
+    {
+      "displayName": "B² Testnet",
+      "href": "https://testnet-b2-eth.shoebill.finance",
+      "chain": 1123,
+      "market": "ETH",
+      "ready": true,
+      "isTestnet": true
+    },
+    {
+      "displayName": "Metis Testnet",
+      "href": "https://testnet-metis-metis.shoebill.finance",
+      "chain": 59901,
+      "market": "METIS",
+      "ready": true,
+      "isTestnet": true
+    }
+  ]
 }
