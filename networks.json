@@ -5,26 +5,30 @@
             "href": "https://manta-stone.shoebill.finance",
             "chain": 169,
             "market": "ETH",
-            "ready": true
+            "ready": true,
+            "imgSrc": "/assets/networkLogos/manta.png"
         },
         {
             "displayName": "METIS",
             "href": "https://metis-metis.shoebill.finance",
             "chain": 1088,
             "market": "METIS",
-            "ready": true
+            "ready": true,
+            "imgSrc": "/assets/networkLogos/metis.svg"
         },
         {
             "displayName": "Wemix",
             "href": "https://wemix.shoebill.finance",
             "chain": 1111,
-            "ready": true
+            "ready": true,
+            "imgSrc": "/assets/networkLogos/wemix.svg"
         },
         {
             "displayName": "Klaytn",
             "href": "https://klaytn.shoebill.finance",
             "chain": 8217,
-            "ready": true
+            "ready": true,
+            "imgSrc": "/assets/networkLogos/klay.svg"
         },
         {
             "displayName": "B² Testnet",
@@ -32,7 +36,8 @@
             "chain": 1123,
             "market": "ETH",
             "ready": true,
-            "isTestnet": true
+            "isTestnet": true,
+            "imgSrc": "/assets/networkLogos/b2.png"
         },
         {
             "displayName": "Metis Testnet",
@@ -40,13 +45,15 @@
             "chain": 59901,
             "market": "METIS",
             "ready": true,
-            "isTestnet": true
+            "isTestnet": true,
+            "imgSrc": "/assets/networkLogos/metis.svg"
         },
         {
             "displayName": "Mode",
             "href": "https://mode-eth.shoebill.finance",
             "chain": 34443,
-            "ready": true
+            "ready": true,
+            "imgSrc": "/assets/networkLogos/mode.svg"
         }
     ]
 }
