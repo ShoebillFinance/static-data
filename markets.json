@@ -1,6 +1,12 @@
 {
     "MAINNET_MARKETS": [
         {
+            "displayName": "Staked METIS Market",
+            "href": "https://metis-metis.shoebill.finance",
+            "chain": 1088,
+            "ready": true
+        },
+        {
             "displayName": "Staked WEMIX Market",
             "href": "https://wemix.shoebill.finance",
             "chain": 1111,
