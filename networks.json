@@ -7,7 +7,13 @@
             "market": "ETH",
             "ready": true
         },
-
+        {
+            "displayName": "METIS",
+            "href": "https://metis-metis.shoebill.finance",
+            "chain": 1088,
+            "market": "METIS",
+            "ready": true
+        },
         {
             "displayName": "Wemix",
             "href": "https://wemix.shoebill.finance",
