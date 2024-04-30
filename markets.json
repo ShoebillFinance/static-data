@@ -58,7 +58,7 @@
             "chain": 223,
             "market": "BTC",
             "ready": true,
-        },
+        }
     ],
     "TESTNET_MARKETS": [
         {
