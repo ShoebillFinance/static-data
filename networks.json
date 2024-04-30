@@ -21,7 +21,7 @@
             "href": "https://b2-eth.shoebill.finance",
             "chain": 223,
             "market": "ETH",
-            "ready": true,
+            "ready": false,
             "imgSrc": "/assets/networksLogo/b2.png"
         },
         {
