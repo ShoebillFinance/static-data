@@ -50,14 +50,14 @@
             "href": "https://b2-eth.shoebill.finance",
             "chain": 223,
             "market": "ETH",
-            "ready": true,
+            "ready": true
         },
         {
             "displayName": "B² BTC Market",
             "href": "https://b2-btc.shoebill.finance",
             "chain": 223,
             "market": "BTC",
-            "ready": true,
+            "ready": true
         }
     ],
     "TESTNET_MARKETS": [
