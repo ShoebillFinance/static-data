@@ -46,14 +46,14 @@
             "ready": true
         },
         {
-            "displayName": "B² bSTONE Market",
+            "displayName": "B² Network bSTONE Market",
             "href": "https://b2-eth.shoebill.finance",
             "chain": 223,
             "market": "ETH",
             "ready": true
         },
         {
-            "displayName": "B² BTC Market",
+            "displayName": "B² Network BTC Market",
             "href": "https://b2-btc.shoebill.finance",
             "chain": 223,
             "market": "BTC",
