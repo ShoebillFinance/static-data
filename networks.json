@@ -17,6 +17,14 @@
             "imgSrc": "/assets/networksLogo/metis.svg"
         },
         {
+            "displayName": "B²",
+            "href": "https://b2-eth.shoebill.finance",
+            "chain": 223,
+            "market": "ETH",
+            "ready": true,
+            "imgSrc": "/assets/networksLogo/b2.png"
+        },
+        {
             "displayName": "Wemix",
             "href": "https://wemix.shoebill.finance",
             "chain": 1111,
