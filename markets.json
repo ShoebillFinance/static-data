@@ -58,7 +58,7 @@
             "chain": 223,
             "market": "BTC",
             "ready": true
-        }
+        },
         {
             "displayName": "BOB ETH Market",
             "href": "https://bob-eth.shoebill.finance",
