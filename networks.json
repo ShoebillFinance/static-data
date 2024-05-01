@@ -62,6 +62,15 @@
             "chain": 34443,
             "ready": true,
             "imgSrc": "/assets/networksLogo/mode.svg"
-        }
+        },
+        {
+            "displayName": "BOB",
+            "href": "https://bob-eth.shoebill.finance",
+            "chain": 60808,
+            "ready": false,
+            "imgSrc": "/assets/networksLogo/bob.svg"
+        },
+        
+    
     ]
 }
