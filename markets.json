@@ -102,6 +102,13 @@
             "chain": 59901,
             "market": "METIS",
             "ready": true
+        },
+        {
+            "displayName": "Form STONE Market",
+            "href": "https://testnet-form-eth.shoebill.finance",
+            "chain": 132902,
+            "market": "ETH",
+            "ready": true
         }
     ]
 }
