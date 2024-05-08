@@ -65,6 +65,13 @@
             "chain": 60808,
             "market": "ETH",
             "ready": true
+        },    
+        {
+            "displayName": "BOB BTC Market",
+            "href": "https://bob-btc.shoebill.finance",
+            "chain": 60808,
+            "market": "BTC",
+            "ready": true
         },
         {
             "displayName": "BOB Stable Market",
@@ -72,14 +79,7 @@
             "chain": 60808,
             "market": "STABLE",
             "ready": true
-        },        
-        {
-            "displayName": "BOB BTC Market",
-            "href": "https://bob-btc.shoebill.finance",
-            "chain": 60808,
-            "market": "BTC",
-            "ready": true
-        }        
+        }
     ],
     "TESTNET_MARKETS": [
         {
