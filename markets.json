@@ -67,6 +67,13 @@
             "ready": true
         },
         {
+            "displayName": "BOB Stable Market",
+            "href": "https://bob-stable.shoebill.finance",
+            "chain": 60808,
+            "market": "STABLE",
+            "ready": true
+        },        
+        {
             "displayName": "BOB BTC Market",
             "href": "https://bob-btc.shoebill.finance",
             "chain": 60808,
