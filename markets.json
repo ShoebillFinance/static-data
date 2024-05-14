@@ -79,6 +79,13 @@
             "chain": 60808,
             "market": "STABLE",
             "ready": true
+        },
+        {
+            "displayName": "Kroma ETH Market",
+            "href": "https://kroma-eth.shoebill.finance",
+            "chain": 255,
+            "market": "ETH",
+            "ready": true
         }
     ],
     "TESTNET_MARKETS": [
