@@ -86,6 +86,14 @@
             "market": "ETH",
             "ready": true,
             "imgSrc": "/assets/networksLogo/kroma.svg"
+        },
+        {
+            "displayName": "Fuse",
+            "href": "https://fuse-fuse.shoebill.finance",
+            "chain": 122,
+            "market": "FUSE",
+            "ready": true,
+            "imgSrc": "/assets/networksLogo/fuse.svg"
         }
     ]
 }
