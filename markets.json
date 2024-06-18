@@ -93,6 +93,13 @@
             "chain": 122,
             "market": "FUSE",
             "ready": true
+        },
+        {
+            "displayName": "zkLINK Nova ETH Market",
+            "href": "https://zklink-eth.shoebill.finance",
+            "chain": 810180,
+            "market": "ETH",
+            "ready": true
         }
     ],
     "TESTNET_MARKETS": [
