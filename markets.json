@@ -86,6 +86,13 @@
             "chain": 255,
             "market": "ETH",
             "ready": true
+        },
+        {
+            "displayName": "Staked Fuse Market",
+            "href": "https://fuse-fuse.shoebill.finance",
+            "chain": 122,
+            "market": "FUSE",
+            "ready": true
         }
     ],
     "TESTNET_MARKETS": [
