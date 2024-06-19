@@ -100,6 +100,13 @@
             "chain": 810180,
             "market": "ETH",
             "ready": true
+        },
+        {
+            "displayName": "Staked Core Market",
+            "href": "https://core-core.shoebill.finance",
+            "chain": 1116,
+            "market": "CORE",
+            "ready": true
         }
     ],
     "TESTNET_MARKETS": [
