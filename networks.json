@@ -94,6 +94,14 @@
             "market": "FUSE",
             "ready": true,
             "imgSrc": "/assets/networksLogo/fuse.svg"
+        },
+        {
+            "displayName": "zkLINK",
+            "href": "https://zklink-eth.shoebill.finance",
+            "chain": 810180,
+            "market": "ETH",
+            "ready": true,
+            "imgSrc": "/assets/networksLogo/zklink.svg"
         }
     ]
 }
