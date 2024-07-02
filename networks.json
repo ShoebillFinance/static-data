@@ -102,6 +102,14 @@
             "market": "ETH",
             "ready": true,
             "imgSrc": "/assets/networksLogo/zklink.svg"
+        },
+        {
+            "displayName": "CORE",
+            "href":  "https://core-core.shoebill.finance",
+            "chain": 1116,
+            "market": "CORE",
+            "ready": true,
+            "imgSrc": "/assets/networksLogo/core.png"
         }
     ]
 }
